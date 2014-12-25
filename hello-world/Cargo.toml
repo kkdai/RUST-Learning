@@ -3,3 +3,6 @@
 name = "hello-world"
 version = "0.0.1"
 authors = ["Evan Lin <evanslin@gmail.com>"]
+
+[dependencies.color]
+git = "https://github.com/bjz/color-rs.git"
